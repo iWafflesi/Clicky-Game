@@ -1,3 +1,8 @@
+# Clicky Game
+
+### Overview 
+This is a basic game created using react. Click on the thumbnails to guess the next character. Once you guess wrong the game will reset with a high score being recorded.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
