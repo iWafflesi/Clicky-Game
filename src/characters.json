@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"name": "Paper-Mario",
+		"image": "https://vignette.wikia.nocookie.net/supersmashbrosfanon/images/5/5a/Paper_Mario_%28Universal-X%29.png/revision/latest?cb=20130810150814"
+	},
+	{
+		"id": 2,
+		"name": "Goomba",
+		"image": "https://i.pinimg.com/originals/50/b6/dd/50b6ddbf07843d9efc0fa71a63fabe09.png"
+	},
+	{
+		"id": 3,
+		"name": "Princess Peach",
+		"image": "https://i.pinimg.com/originals/48/15/ab/4815ab8335f1782fcfa119769c5a0794.png"
+	},
+	{
+		"id": 4,
+		"name": "Toad",
+		"image": "https://files.gamebanana.com/img/ico/sprays/toad_sraylogo.png"
+	},
+	{
+		"id": 5,
+		"name": "Paper-Luigi",
+		"image": "https://i.pinimg.com/originals/b3/4c/df/b34cdf7e8a8b7ad62d8bd09613253872.png"
+	},
+	{
+		"id": 6,
+		"name": "Shyguy",
+		"image": "https://i.pinimg.com/originals/19/62/3b/19623bd5ebb5cfaf84298c9cf6d4f272.png"
+	},
+	{
+		"id": 7,
+		"name": "Chain-Chomp",
+		"image": "https://i.pinimg.com/originals/01/2d/71/012d71d6f827d6b83b451d406225b4fa.png"
+	},
+	{
+		"id": 8,
+		"name": "1up",
+		"image": "https://1.bp.blogspot.com/-BArdCr5jwUE/Voq5hmieUPI/AAAAAAAAU6o/4fuGkpPv2zI/s400/1-Up%2BMushroom.png"
+	},
+	{
+		"id": 9,
+		"name": "Yoshi",
+		"image": "http://icons.iconarchive.com/icons/ph03nyx/super-mario/256/Yoshi-icon.png"
+	},
+	{
+		"id": 10,
+		"name": "Waluigi",
+		"image": "https://files.gamebanana.com/img/ico/sprays/51c9d2df9ef81.png"
+	},
+	{
+		"id": 11,
+		"name": "Wario",
+		"image": "https://files.gamebanana.com/img/ico/sprays/wario_2.png"
+	},
+	{
+		"id": 12,
+		"name": "Koopa",
+		"image": "https://files.gamebanana.com/img/ico/sprays/koopa.png"
+	}
+]
